@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>MENU DE GPP</title>
+<head>  
+
+<body>
+
+<p>La plataforma MENU G, P, P estará diseñada para ofrecer una experiencia intuitiva y transparente a los usuarios. Con su estructura clara y funcionalidades bien definidas, busca prevenir
+     fraudes y promover la confianza en las transacciones comerciales en las playas de Cartagena.
+      Al dividir los productos en categorías, proporcionar listados detallados, permitir la selección de ubicaciones
+       específicas, ofrecer funciones de búsqueda y facilitar la interacción mediante comentarios y calificaciones, 
+       la plataforma se convierte en una herramienta poderosa para los usuarios.</p>
+<h1>categoria de productos<h2>
+ <h3>Bebidas.
+Botella de agua - 3.500
+Cerveza - 4.000
+Coca cola - 4.000
+ <h3>Refrigerios.
+Raspado - 3.000
+Ceviche - 15.000 hasta a 90.000
+Frutas - 4.000 a 6.000
+<h4> 
+<h3>Almuerzos.
+Sopas - 20.000
+Mojarra, arroz de coco, patacones y ensaladas - 30.000
+<h4> 
+<h3><h4>
+<h1>servicios de la playa<h2>
+<h3>servicios 
+Carpas - 30.000 a 40.000
+Sillas - 8.000 a 10.000Masajes - 50.000max
+Tatuajes no permanentes - 40.000 hasta 90.000
+Jet skies - 50.000
+Kitesurf - 120.000
+Gusanito - 25.000 a 30.000
+Entre otros más.
+<h4>  
+<h3>roque<h3>
+
+
+</body>
+</html>
